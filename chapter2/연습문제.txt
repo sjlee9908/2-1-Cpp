@@ -1,0 +1,37 @@
+1. int main()
+2. 3
+3. 5
+4.(1) [형식 오류]. 형식 오류 c언어에서는 모든 변수가 실행문 전에 선언되어야 하므로 컴파일 오류가 발생
+4.(2) C++에선 어디서나 변수선언 가능
+4.(3) 장점: 스크롤을 올렸다 내렸다 해야 하는 번거로움 줄일 수 있고, 변수가 필요할 때 바로 선언할 수 있어서 편하다. 단점: 선언된 변수들이 코드 사이에 흩어져 있으므로 선언된 모든 변수 한눈에 보기 힘들고 찾기도 어려움
+5. I love C++
+I love programing
+6.(1) using namespace std;
+6.(2) using namesapce std;
+7.(1) #include <iostream>
+7.(2) using namespace std;
+7.(3) std::cin >> name
+7.(4) std::cout <<1 <<2<<'a'<<"hello"<<'\n'
+8.(1) X
+8.(2) X
+8.(3) int n=1; cout<<n+200
+8.(4) int year=2014; cout<<year<<"년"
+9. #include <myheader.h>
+10.(1) O
+10.(2) O
+10.(3) O
+10.(4) X
+10.(5) O
+11. #include <cstring>
+12.(1) kitae님 환영합니다
+12.(2) kitae님 환영합니다
+13. 4
+14. 4
+15. namespace
+16. std
+17. std
+18. iostream
+19. cout << age << ' ' <<pDept
+20. for (int i=0; i<=n; i++){
+	cout<<'*'
+}cout<<'\n'

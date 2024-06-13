@@ -1,0 +1,13 @@
+﻿  예제8-2.cpp
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(36,3): error C2248: 'Point::x': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(7): message : 'Point::x' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(37,3): error C2248: 'Point::y': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(7): message : 'Point::y' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(41,4): error C2248: 'Point::x': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(7): message : 'Point::x' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(5): message : 'Point' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(42,4): error C2248: 'Point::y': protected 멤버('Point' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(7): message : 'Point::y' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter8\예제8-2\예제8-2\예제8-2.cpp(5): message : 'Point' 선언을 참조하십시오.

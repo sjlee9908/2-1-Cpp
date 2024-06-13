@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(9,30): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(10,23): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  MyStack.cpp
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(9,30): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(10,23): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.cpp(3,27): warning C5043: 'MyStack::push': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(9): message : 'MyStack::push' 선언을 참조하십시오.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.cpp(10,20): warning C5043: 'MyStack::pop': 예외 사양이 이전 선언과 일치하지 않습니다.
+C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\MyStack.h(10): message : 'MyStack::pop' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  예제13-7.vcxproj -> C:\Users\Lee\OneDrive - 한성대학교\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter13\예제13-7\Debug\예제13-7.exe

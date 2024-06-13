@@ -1,0 +1,39 @@
+1. 4
+2. 1
+3. 주소에 의한 호출
+4. (1) 같음
+4. (2) 다름(주소에 의한 호출, 참조에 의한 호출)
+5. (1) 5
+5. (2) 25
+6. 1 4 9
+7. 2
+8. 2
+9. 1
+10. (1) {0,2,4,6,8,10,12,14,16,100}
+10. (2) {0,4,6,8,10,12,14,16,18,18}
+10. (3) {0,2,4,6,8,10,12,14,16,18}
+10. (4) {0,2,4,6,0,10,12,14,16,18}
+11. 값에 의한 호출이기 때문, copy(int &dest, int src)
+12. x=1, y=100
+13. Myclass(), Myclass(Myclass& m)
+14. 2
+15. (1) ~Myclass(){ delete[] element; }
+15. (2) Myclass(Myclass m){ this->size = m.size; this->element=m.element;  }
+15. (3) Myclass(Myclass m){ 
+		this->size = myclass.size;
+		this->element = new int [size];
+		for(int i = 0; i < size; i++)
+		{
+			this->element[i] = myclass.elemnet[i];
+		}
+
+	}
+16. 1
+17. Student(Student s){ name=s.name; id=s.id; grade=s.grade; }
+18. Student(Student& student) {
+    this->pName = student.pName;
+    this->pId = student.pId;
+    this->grade = studnet.grade;
+}
+19. 얕은 복사가 되어 소멸자가 실행될 때, 실행 오류가 발생됨
+

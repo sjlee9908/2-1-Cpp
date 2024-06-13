@@ -1,0 +1,60 @@
+1. 3
+2. 3
+3. 2
+4. 2
+5.
+<template class t>
+bool equal(t a, t b) {...}
+6. 
+<template class t>
+bool insert(t a, t b[], int index) {...}
+7. 
+template <typename t>
+t max(t x, t y) {...}
+8.
+template <class TYPE>
+TYPE equals(TYPE x, TYPE y){...}
+9. (1)
+int avg(int* p, int n){...}
+9.(2)
+double avg(double* p, int n){...}
+10.(1)예
+10.(2)3.14
+10.(3)special
+11. 3
+12. (1) T* p, int size
+12. (2) Container(int n){ p= new T[n]; size=n }
+12. (3) ~Container(){ delete[] p }
+12. (4) T get(int index) { return p[index] }
+12. (5) Container<char> c(26);
+12. (6) 
+int main(){
+	Container<char> c(26);
+	for(int i=0; i<26; i++) c.set(i, 'a'+1);
+	for(int i=25; i>=0; i--) c.get(i);
+}
+13. 1
+14.(1) vector
+14.(2) list
+14.(3) algorithm
+14.(4) algorithm
+15.
+vector<double> v;
+for(int i=0; i<v.size(); i++) cout << v[i] << endl;
+16. vector<char>::iterator it;
+17. map
+18. (1) vector
+18. (2) map
+
+
+
+
+
+
+
+
+
+
+
+
+

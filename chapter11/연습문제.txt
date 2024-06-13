@@ -1,0 +1,26 @@
+1. 3
+2. 4
+3. 키보드
+4. 스크린
+5. cin, cou, cerr, clog
+6. 2
+7. 1
+8. char
+9. 
+abc
+put()이 istream&을 반환하기 때문
+10. 
+get()은 \n을 스트림버퍼에 남겨둠
+getline()은 \n을 스트림버퍼에 남겨두지 않음
+11. 1
+12. 15
+13. 2, 3
+14. 4
+15. 4
+16. %%%%%%%%%C++
+17. 6.6667~~~~
+18. iostream iomanip
+19. ostream헤더파일, ostream& operator<<(char)
+20. 4
+21. istream& ignoredigit(istream&)
+22. ostream& ten(ostream&)
